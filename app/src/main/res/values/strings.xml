@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MyNearBy</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_id">com.umutkina.mynearby.service</string>
+
+    <string name="advertise">Advertise</string>
+    <string name="discover">Discover</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="debug_label">Debug Info:</string>
+    <string name="str_btn_find">Find</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="place_type">
+        <item>airport</item>
+        <item>lodging</item>
+        <item>pharmacy</item>
+        <item>taxi_stand</item>
+        <item>police</item>
+        <item>library</item>
+        <item>book_store</item>
+        <item>gas_station</item>
+        <item>post_office</item>
+        <item>school</item>
+        <item>university</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+        <item>subway_station</item>
+        <item>train_station</item>
+        <item>car_rental</item>
+        <item>church</item>
+        <item>doctor</item>
+        <item>hospital</item>
+        <item>health</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>restaurant</item>
+        <item>cafe</item>
+        <item>meal_takeaway</item>
+        <item>veterinary_care</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Hava Alanı</item>
+        <item>Konaklama</item>
+        <item>Eczane</item>
+        <item>Taksi</item>
+        <item>Polis</item>
+        <item>Kütüphane</item>
+        <item>Kitapçı</item>
+        <item>Benzin İstasyonu</item>
+
+        <item>PTT</item>
+        <item>Okul</item>
+        <item>Üniversite</item>
+        <item>ATM</item>
+        <item>Banka</item>
+        <item>Otobüs Durağı</item>
+        <item>Metro</item>
+        <item>Tren İstasyonu</item>
+        <item>Araç Kiralama</item>
+        <item>Kilise</item>
+        <item>Doktor</item>
+        <item>Hastane</item>
+        <item>Sağlık</item>
+        <item>Cami</item>
+        <item>Sinema Tiyatro</item>
+        <item>Restoran</item>
+        <item>Cafe</item>
+        <item>Yemek Paket</item>
+        <item>Veterinerlik</item>
+    </string-array>
+
+</resources>
